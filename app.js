@@ -7,7 +7,7 @@ const PORT = process.env.PORT || 3100;
 
 // Route untuk halaman utama
 app.get('/', (req, res) => {
-    res.send('Hello, World!');
+    res.send('Hello, World2!');
 });
 
 // Mulai server
